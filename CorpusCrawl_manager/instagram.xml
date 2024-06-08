@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<id>01</id>
+	<app>Instagram</app>
+	<doc key="pp">
+		<lang key="es">
+			<url>https://www.facebook.com/help/instagram/155833707900388/?locale=es_ES</url>
+			<timestamp>20240607201648</timestamp>
+			<file>instagram_es_20240607200154</file>
+			<update>20240601214032</update>
+		</lang>
+		<lang key="en">
+			<url>https://www.facebook.com/help/instagram/155833707900388/?locale=en_GB</url>
+			<timestamp>20240607200510</timestamp>
+			<file>instagram_en_20240607183037</file>
+			<update />
+		</lang>
+	</doc>
+</xml>
