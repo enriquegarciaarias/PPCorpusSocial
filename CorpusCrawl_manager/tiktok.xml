@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<id>02</id>
+	<app>tiktok</app>
+	<doc key="pp">
+		<lang key="es">
+			<url>https://www.tiktok.com/legal/page/eea/privacy-policy/es</url>
+			<timestamp>20240608093932</timestamp>
+			<file>instagram_es_20240608093730</file>
+		</lang>
+		<lang key="en">
+			<url>https://www.tiktok.com/legal/page/eea/privacy-policy/en</url>
+			<timestamp>20240608094126</timestamp>
+			<file>instagram_en_20240607200510</file>
+		</lang>
+	</doc>
+	<doc key="tos">
+		<lang key="es">
+			<url>https://www.tiktok.com/legal/page/eea/terms-of-service/es</url>
+			<timestamp>20240608093932</timestamp>
+			<file>instagram_es_20240608093730</file>
+		</lang>
+		<lang key="en">
+			<url>https://www.tiktok.com/legal/page/eea/terms-of-service/en</url>
+			<timestamp>20240608094126</timestamp>
+			<file>instagram_en_20240607200510</file>
+		</lang>
+	</doc>	
+</xml>

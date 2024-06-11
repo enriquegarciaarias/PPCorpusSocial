@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+	<id>04</id>
+	<app>whatsapp</app>
+	<doc key="pp">
+		<lang key="es">
+			<url>https://www.whatsapp.com/legal/privacy-policy?lang=es</url>
+			<timestamp></timestamp>
+			<file></file>
+		</lang>
+		<lang key="en">
+			<url>https://www.whatsapp.com/legal/privacy-policy?lang=en</url>
+			<timestamp></timestamp>
+			<file></file>
+		</lang>
+	</doc>
+	<doc key="tos">
+		<lang key="es">
+			<url>https://www.whatsapp.com/legal/terms-of-service-eea?lang=es</url>
+			<timestamp></timestamp>
+			<file></file>
+		</lang>
+		<lang key="en">
+			<url>https://www.whatsapp.com/legal/terms-of-service-eea?lang=en</url>
+			<timestamp></timestamp>
+			<file></file>
+		</lang>
+	</doc>	
+</xml>
