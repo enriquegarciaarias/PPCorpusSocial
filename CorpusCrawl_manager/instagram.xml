@@ -1,29 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
 <xml>
 	<id>01</id>
 	<app>instagram</app>
 	<doc key="pp">
 		<lang key="es">
 			<url>https://www.facebook.com/help/instagram/155833707900388/?locale=es_ES</url>
-			<timestamp></timestamp>
-			<file></file>
+			<timestamp>20240612085245</timestamp>
+			<file>instagram_pp_es_20240612085241</file>
 		</lang>
 		<lang key="en">
 			<url>https://www.facebook.com/help/instagram/155833707900388/?locale=en_GB</url>
-			<timestamp></timestamp>
-			<file></file>
+			<timestamp />
+			<file />
 		</lang>
 	</doc>
 	<doc key="tos">
 		<lang key="es">
 			<url>https://www.facebook.com/help/instagram/478745558852511?locale=es_ES</url>
-			<timestamp></timestamp>
-			<file></file>
+			<timestamp />
+			<file />
 		</lang>
 		<lang key="en">
 			<url>https://www.facebook.com/help/instagram/478745558852511?locale=en_GB</url>
-			<timestamp></timestamp>
-			<file></file>
+			<timestamp />
+			<file />
 		</lang>
 	</doc>	
 </xml>
