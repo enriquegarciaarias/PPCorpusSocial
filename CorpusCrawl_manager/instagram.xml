@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <xml>
 	<id>01</id>
 	<app>instagram</app>
@@ -6,13 +7,23 @@
 			<url>https://www.facebook.com/help/instagram/155833707900388/?locale=es_ES</url>
 			<timestamp></timestamp>
 			<file></file>
-			<update></update>
 		</lang>
 		<lang key="en">
 			<url>https://www.facebook.com/help/instagram/155833707900388/?locale=en_GB</url>
 			<timestamp></timestamp>
 			<file></file>
-			<update />
 		</lang>
 	</doc>
+	<doc key="tos">
+		<lang key="es">
+			<url>https://www.facebook.com/help/instagram/478745558852511?locale=es_ES</url>
+			<timestamp></timestamp>
+			<file></file>
+		</lang>
+		<lang key="en">
+			<url>https://www.facebook.com/help/instagram/478745558852511?locale=en_GB</url>
+			<timestamp></timestamp>
+			<file></file>
+		</lang>
+	</doc>	
 </xml>
